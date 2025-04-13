@@ -3,7 +3,7 @@
 - 📚 Atualmente estou estudando Desenvolvimento de Sistemas.
 - 💻 Estou aprendendo: Html, CSS, Javascript, Java, RectNative, Node, MariaDB
   e outros conteudos como Segurança da Informação .
-- 💬 Pergunte-me sobre: Front-end
+- 💬 Possuo breve conhecimento: Front-end e Java
 
  ### 🤖 Linguagens e Tecnologias
 
@@ -55,14 +55,6 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <img align="left" 
