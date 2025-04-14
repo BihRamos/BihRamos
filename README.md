@@ -1,7 +1,7 @@
 ## Olá! Eu sou Bih Ramos 👋
 
 - 📚 Atualmente estou estudando Desenvolvimento de Sistemas.
-- 💻 Estou aprendendo: Html, CSS, Javascript, Java, RectNative, Node, MariaDB
+- 💻 Estudo Tecnologias como: Html, CSS, Javascript, Java, RectNative, Node, MariaDB
   e outros conteudos como Segurança da Informação .
 - 💬 Possuo breve conhecimento: Front-end e Java
 
