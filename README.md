@@ -3,7 +3,6 @@
 - 📚 Atualmente estou estudando Desenvolvimento de Sistemas.
 - 💻 Estudo Tecnologias como: Html, CSS, Javascript, Java, RectNative, Node, MariaDB
   e outros conteudos como Segurança da Informação .
-- 💬 Possuo breve conhecimento: Front-end e Java
 
  ### 🤖 Linguagens e Tecnologias
 
