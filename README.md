@@ -1,4 +1,4 @@
-## Olá! Eu sou Bih Ramos 👋
+## Olá! Eu sou Gaby Ramos 👋
 
 - 📚 Atualmente estou estudando Desenvolvimento de Sistemas.
 - 💻 Estudo Tecnologias como: Html, CSS, Javascript, Java, RectNative, Node, MariaDB
