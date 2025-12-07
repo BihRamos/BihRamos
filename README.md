@@ -1,96 +1,66 @@
-## Olá! Eu sou Gaby Ramos 👋
+# 👩‍💻 Gaby Ramos
 
-- 📚 Atualmente estou estudando Desenvolvimento de Sistemas.
-- 💻 Estudo Tecnologias como: Html, CSS, Javascript, Java, RectNative, Node, MariaDB
-  e outros conteudos como Segurança da Informação .
+Desenvolvedora de Sistemas formada, com foco em desenvolvimento web e mobile.  
+Atuo construindo interfaces modernas, aplicações funcionais e soluções completas utilizando tecnologias front-end e back-end.  
+Apaixonada por tecnologia, boas práticas, versionamento e aprendizado contínuo.
 
- ### 🤖 Linguagens e Tecnologias
+---
 
-<img 
-    align="left" 
-   alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+## 🧩 Áreas de Interesse
+- Desenvolvimento Web (Front-end e Back-end)
+- Desenvolvimento Mobile (React Native)
+- Banco de Dados e Modelagem
+- Segurança da Informação
+- Arquitetura e boas práticas de código
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+---
 
-<img align="left" 
-  alt="Java" 
-  width="30px" 
-  style="padding-right:10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+## 🚀 Tecnologias & Ferramentas
 
-  <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+### **Front-end**
+- HTML5  
+- CSS3  
+- JavaScript  
+- React Native  
 
-<br/>
-<br/>
+### **Back-end**
+- Java  
+- Node.js  
 
-<div> 
-<a href="https://www.instagram.com/gaby.ramos.rfs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"</a>
-<a href="https://discord.com/guild-discovery" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-<a href = "mailto:gaby.dev21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gabriela-ramos-ferreira-dos-santos-9640a517a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+### **Banco de Dados**
+- MariaDB  
+
+### **Ferramentas**
+- Git & GitHub  
+- VS Code  
+- Postman  
+- Figma  
+- Linux / Windows
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div>
   
+![Gaby GitHub Stats](https://github-readme-stats.vercel.app/api?username=BihRamos&show_icons=true&theme=tokyonight&hide_border=true)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BihRamos&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
-### 📊 Estatísticas
+---
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    width="50%"   
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=BihRamos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+## 🌟 Sobre mim
+Sou dedicada, responsável e comunicativa.  
+Gosto de transformar ideias em projetos reais, criando soluções úteis e bem estruturadas.  
+Busco constantemente evoluir como desenvolvedora e ampliar minhas habilidades em tecnologias modernas.
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-       width="45%" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bihramos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+---
 
-</p>
+## 📫 Contato
+Você pode me encontrar por aqui mesmo no GitHub ou em outras redes (adicione seus links se quiser).
+
+---
+
+### 💼 *“Tecnologia é meu caminho, evolução é meu foco.”*
