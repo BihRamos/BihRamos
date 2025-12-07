@@ -13,32 +13,6 @@ Apaixonada por tecnologia, boas práticas, versionamento e aprendizado contínuo
 - Segurança da Informação
 - Arquitetura e boas práticas de código
 
----
-
-## 🚀 Tecnologias & Ferramentas
-
-### **Front-end**
-- HTML5  
-- CSS3  
-- JavaScript  
-- React Native  
-
-### **Back-end**
-- Java  
-- Node.js  
-
-### **Banco de Dados**
-- MariaDB  
-
-### **Ferramentas**
-- Git & GitHub  
-- VS Code  
-- Postman  
-- Figma  
-- Linux / Windows
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <div>
@@ -49,18 +23,3 @@ Apaixonada por tecnologia, boas práticas, versionamento e aprendizado contínuo
 
 </div>
 
----
-
-## 🌟 Sobre mim
-Sou dedicada, responsável e comunicativa.  
-Gosto de transformar ideias em projetos reais, criando soluções úteis e bem estruturadas.  
-Busco constantemente evoluir como desenvolvedora e ampliar minhas habilidades em tecnologias modernas.
-
----
-
-## 📫 Contato
-Você pode me encontrar por aqui mesmo no GitHub ou em outras redes (adicione seus links se quiser).
-
----
-
-### 💼 *“Tecnologia é meu caminho, evolução é meu foco.”*
